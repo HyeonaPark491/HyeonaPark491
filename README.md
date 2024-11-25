@@ -1,5 +1,5 @@
 ## Hi there 👋
-![image](https://github.com/user-attachments/assets/3ef97545-d0dd-46c2-9220-ace7a1812ea7)
+![다운로드](https://github.com/user-attachments/assets/c0a456c4-9f0e-42fd-a0f1-9ef5dcebcb7a)
 
 - 🔭 I’m currently working on term project for Computer Networks class.
 - 🌱 I’m currently learning Data Structures, Computer Architecture, Computer Networks, Open Source Software, Information Security.
